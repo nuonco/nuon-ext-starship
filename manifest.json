@@ -1,0 +1,16 @@
+{
+  "name": "starship",
+  "description": "Starship prompt module showing current Nuon org, install, and environment",
+  "repo": "nuonco/nuon-ext-starship",
+  "version": "0.0.1",
+  "tag": "0.0.1",
+  "installed_at": "2026-02-28T00:00:00Z",
+  "updated_at": "2026-02-28T00:00:00Z",
+  "binary": "",
+  "type": "script",
+  "entrypoint": "nuon-ext-starship",
+  "platform": "darwin/arm64",
+  "min_cli_version": "",
+  "requires_token": true,
+  "requires_org": false
+}

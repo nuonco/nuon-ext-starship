@@ -1,0 +1,7 @@
+[extension]
+name = "starship"
+description = "Starship prompt module showing current Nuon org, install, and environment"
+
+[extension.auth]
+requires_token = true
+requires_org = false
